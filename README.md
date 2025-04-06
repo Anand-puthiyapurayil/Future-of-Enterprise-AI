@@ -1,3 +1,5 @@
+![Blog Header](assets/blog.png)
+
 # 🚀 Embracing MLOps, GenAIOps, and LLMOps: The Future of Enterprise AI Operations
 
 Businesses today increasingly rely on data and AI to innovate, deliver value to customers, and maintain competitive advantage. The rapid adoption of machine learning (ML) has created a demand for specialized tools, processes, and organizational frameworks that ensure models and applications operate reliably, cost-effectively, and at scale—this is known broadly as **Machine Learning Operations (MLOps)**.
@@ -11,10 +13,15 @@ With the advent of generative AI and large language models (LLMs), specialized a
 AI operations can be viewed as nested layers:
 
 - **MLOps** provides foundational practices for developing, deploying, managing, and monitoring ML models, ensuring reliable, efficient, and scalable production environments.
+![MLOps Lifecycle](assets/MLops.png)
+
+
+
 - **GenAIOps** builds upon MLOps to operationalize generative AI solutions, emphasizing management and customization of foundation models.
 - **LLMOps** is a specific subset of GenAIOps, dedicated to deploying and managing applications powered specifically by large language models.
 - **RAGOps (Retrieval-Augmented Generation Operations)** further specializes in applications combining LLMs with external knowledge databases to ensure model outputs are accurate and current without frequent retraining.
 
+![RAGOps Lifecycle](assets/ragops.jpeg)
 ---
 
 ## 🎯 The Generative AI Development Journey
@@ -26,6 +33,8 @@ The lifecycle of modern generative AI applications involves several crucial stag
 3. **Retrieval Augmented Generation (RAG)**: Integrating models with external knowledge to maintain accuracy and freshness of information during query time.
 4. **Operational Deployment**: Ensuring robust deployment, real-time evaluation, security, and scalability.
 5. **Continuous Feedback**: Establishing feedback loops from user interactions to continuously refine and enhance model performance.
+
+![End-to-End AI Architecture](assets/endtoend.jpeg)
 
 ---
 
