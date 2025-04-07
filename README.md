@@ -37,6 +37,11 @@ The lifecycle of modern generative AI applications involves several crucial stag
 ![End-to-End AI Architecture](assets/endtoend.png)
 
 ---
+## ⚠️ Common Pitfalls in Enterprise AI Adoption
+
+- While the excitement around LLMs and generative AI is justified, many enterprises fall into the trap of rapid adoption without proper operational foundations like MLOps or LLMOps. This often leads to cost overruns, scalability bottlenecks, security vulnerabilities, and ethical missteps due to lack of governance. Without robust monitoring, feedback loops, and infrastructure in place, organizations risk deploying models that are brittle, biased, or unable to adapt to real-world usage. Taking a strategic, operations-first approach helps avoid these pitfalls and ensures AI solutions are not only innovative—but also reliable, secure, and sustainable.
+
+
 
 ## ⚙️ Capabilities and Advantages of MLOps and GenAIOps
 
