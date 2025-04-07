@@ -13,6 +13,8 @@ With the advent of generative AI and large language models (LLMs), specialized a
 AI operations can be viewed as nested layers:
 
 - **MLOps** provides foundational practices for developing, deploying, managing, and monitoring ML models, ensuring reliable, efficient, and scalable production environments.
+
+
 ![MLOps Lifecycle](assets/MLops.png)
 
 
