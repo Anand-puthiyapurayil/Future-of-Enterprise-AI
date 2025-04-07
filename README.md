@@ -21,7 +21,7 @@ AI operations can be viewed as nested layers:
 - **LLMOps** is a specific subset of GenAIOps, dedicated to deploying and managing applications powered specifically by large language models.
 - **RAGOps (Retrieval-Augmented Generation Operations)** further specializes in applications combining LLMs with external knowledge databases to ensure model outputs are accurate and current without frequent retraining.
 
-![RAGOps Lifecycle](assets/ragops.jpeg)
+![RAGOps Lifecycle](assets/ragops.png)
 ---
 
 ## 🎯 The Generative AI Development Journey
@@ -34,7 +34,7 @@ The lifecycle of modern generative AI applications involves several crucial stag
 4. **Operational Deployment**: Ensuring robust deployment, real-time evaluation, security, and scalability.
 5. **Continuous Feedback**: Establishing feedback loops from user interactions to continuously refine and enhance model performance.
 
-![End-to-End AI Architecture](assets/endtoend.jpeg)
+![End-to-End AI Architecture](assets/endtoend.png)
 
 ---
 
